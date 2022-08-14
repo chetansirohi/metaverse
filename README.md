@@ -27,4 +27,4 @@ Running the App Locally
 
 5 . Running the App on localhost
 
-``` npm run start ```
+``` npm start run ```
